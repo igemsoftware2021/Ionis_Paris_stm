@@ -15,10 +15,9 @@ mbed_settings.py
 BUILD/
 .mbed
 venv/
-mbed-os/
 # Mbedls
 .mbedls-mock.lock
-.mbed*
+
 shields/
 
 # Eclipse Project Files
