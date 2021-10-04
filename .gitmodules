@@ -1,3 +1,6 @@
 [submodule "mbed-os"]
 	path = mbed-os
 	url = https://github.com/ARMmbed/mbed-os/
+[submodule "TARGET_CORDIO_BLUENRG"]
+	path = shields/TARGET_CORDIO_BLUENRG
+	url = https://github.com/ARMmbed/cordio-ble-x-nucleo-idb0xa1/
