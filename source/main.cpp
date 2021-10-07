@@ -20,7 +20,7 @@
 #include "LEDService.h"
 #include "pretty_printer.h"
 
-const static char DEVICE_NAME[] = "LED";
+const static char DEVICE_NAME[] = "STM32IONIS";
 
 static EventQueue event_queue(/* event count */ 10 * EVENTS_EVENT_SIZE);
 
